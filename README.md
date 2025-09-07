@@ -1,1 +1,1 @@
-# Digital Clock which represents present time.
+# Digital Clock 
