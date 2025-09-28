@@ -1,3 +1,4 @@
+//a function called UpdateClock is written to retrieve current hours, minutes, seconds and to display them as well.
 function UpdateClock(){
     const now=new Date();
     let hours=now.getHours();
