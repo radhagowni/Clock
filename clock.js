@@ -1,5 +1,6 @@
 //a function called UpdateClock is written to retrieve current hours, minutes, seconds and to display them as well.
 function UpdateClock(){
+    // below line is to get current date
     const now=new Date();
     let hours=now.getHours();
     const meridiem=hours>=12?"PM":'AM';
